@@ -1,0 +1,7 @@
+masuk localhost
+localhost/hijab
+
+masuk ke login admin :
+http://localhost/hijab/administrator/
+Username : admin
+Password : admin
